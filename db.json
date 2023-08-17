@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "username": "Roushan Kumar",
+      "avatar": "https://i.pravatar.cc/{size}",
+      "email": "r@gmail.com",
+      "password": "r@123"
+    }
+   
+  ],
+  "question": [
+    {
+      "username": "Roushan Kumar",
+      "avatar":"",
+      "questiontitle": "What is React ?",
+      "language": "javascript",
+      "upvotes": "10",
+      "Answers": "8",
+      "postedate": "17-08-2023"
+    }
+  ],
+  "answers": []
+}
